@@ -44,9 +44,13 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![Screenshot 2024-12-05 134608](https://github.com/user-attachments/assets/ed74e233-1813-4ceb-84c6-37d830d44307)
+![Screenshot 2024-12-05 134617](https://github.com/user-attachments/assets/06af499b-5ecd-4a67-af3a-685f96cb5561)
+![Screenshot 2024-12-05 134628](https://github.com/user-attachments/assets/5bc92543-a4bc-48a1-9667-40dfafc69cf3)
 
-### Name:
-### Register Number:
+
+### Name: BARANI SS
+### Register Number:24900119
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
